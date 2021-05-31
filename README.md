@@ -15,6 +15,7 @@
 - Database
 	- Install PostgreSQL
 		- https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+		- db1
 	- Add the following to resources/application.properties
 		- spring.datasource.url=jdbc:postgresql://localhost:5432/student
 		- spring.datasource.username=
