@@ -12,7 +12,9 @@
 	- Spring Data JPA
 	- PostgreSQL Driver
 
-- Database 
+- Database
+	- Install PostgreSQL
+		- https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 	- Add the following to resources/application.properties
 		- spring.datasource.url=jdbc:postgresql://localhost:5432/student
 		- spring.datasource.username=
